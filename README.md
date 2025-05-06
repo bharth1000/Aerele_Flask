@@ -55,16 +55,20 @@ Here are some screenshots of the application:
 
 - **Product Management Page**:
 
-    ![Product Management Page](screenshots/product-management.png)
+    ![Product Management Page](https://github.com/bharth1000/Aerele_Flask/blob/main/Screenshot%202025-05-06%20161714.png?raw=true)
 
 - **Add Product Modal**:
 
-    ![Add Product Modal](screenshots/add-product-modal.png)
+    ![Add Product Modal](https://github.com/bharth1000/Aerele_Flask/blob/main/Screenshot%202025-05-06%20161730.png?raw=true)
 
 - **Warehouse Locations Page**:
 
-    ![Warehouse Locations Page](screenshots/warehouse-locations.png)
+    ![Warehouse Locations Page](https://github.com/bharth1000/Aerele_Flask/blob/main/Screenshot%202025-05-06%20161643.png?raw=true)
 
+- **Add Location Modal**:
+
+    ![Add Product Modal](https://github.com/bharth1000/Aerele_Flask/blob/main/Screenshot%202025-05-06%20161702.png?raw=true)
+  
 ## Video Demonstration
 
 You can watch a video demonstration of the Inventory Management System:
