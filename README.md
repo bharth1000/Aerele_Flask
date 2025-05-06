@@ -72,8 +72,10 @@ Here are some screenshots of the application:
 ## Video Demonstration
 
 You can watch a video demonstration of the Inventory Management System:
-
-[![Video Demonstration](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+<video width="600" controls>
+  <source src="aerele.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### BY
 Bharth M
